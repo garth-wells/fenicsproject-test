@@ -3,18 +3,18 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /#top
+  - name: FEniCS'24 Conference
+    url: workshops/2024
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Download
+    url: download
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Docs
+    url: docs
     weight: 30
-  - name: Resources
+  - name: Community
+    url: community
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  # - name: Citing
+  #   url: cite
+  #   weight: 50
