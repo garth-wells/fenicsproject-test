@@ -41,8 +41,6 @@ sections:
   - block: markdown
     content:
       title: The FEniCS computing platform
-      icon: brands/github
-        url: https://twitter.com/GetResearchDev
       text: |
         FEniCS is a popular open-source computing platform for solving partial
         differential equations (PDEs) with the finite element method (FEM). FEniCS
@@ -56,6 +54,18 @@ sections:
         [{{< icon name="brands/linkedin" >}}](https://www.linkedin.com/company/fenics-project)
         [{{< icon name="devicon/slack" >}}](https://www.linkedin.com/company/fenics-project)
 
+  # - block: buttons
+  #   content:
+  #     buttons:
+  #       - title: Read my latest paper on LLMs
+  #         icon: brands/arxiv
+  #         url: https://arxiv.org/abs/2304.01852
+  #       - title: Watch my new YouTube video to achieve 20x productivity
+  #         icon: brands/youtube
+  #         url: https://youtube.com
+  #       - title: Connect with me on LinkedIn
+  #         icon: brands/linkedin
+  #         url: https://linkedin.com
 
   - block: markdown
     content:
