@@ -1,6 +1,6 @@
 ---
 title: Documentation
-type: widget_page
+type: landing
 share: true
 
 links:

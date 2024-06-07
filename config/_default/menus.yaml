@@ -18,6 +18,6 @@ main:
   - name: Community
     url: community
     weight: 50
-  # - name: Citing
-  #   url: cite
-  #   weight: 50
+  - name: Citing
+    url: cite
+    weight: 60
