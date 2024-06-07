@@ -1,6 +1,18 @@
 ---
 title: Documentation
-type: landing
+type: widget_page
+share: true
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: XXOriginally published on Medium
+    url: 'https://medium.com'
+
 # subtitle: FEniCSx fenicsxversion
 # permalink: /documentation/
 
@@ -8,9 +20,9 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Download
+      title: Documentation
       text: |
-        ## Getting started
+        ### Getting started
 
         If you're new to FEniCS, we suggest starting with the [DOLFINx Python demos](https://docs.fenicsproject.org/dolfinx/v{{site.dolfinxversion}}/python/demos.html),
         or [the FEniCSx tutorial](https://jorgensd.github.io/dolfinx-tutorial/).
@@ -18,7 +30,7 @@ sections:
         If you have questions about how to use FEniCS, you can find links to how to do this on
         the [community page](../community/index.md).
 
-        ## Documentation
+        ### Documentation
 
         Full documentation of the components of FEniCSx is available at
         [https://docs.fenicsproject.org/](https://docs.fenicsproject.org/).
@@ -26,7 +38,7 @@ sections:
         [The FEniCSx tutorial](https://jorgensd.github.io/dolfinx-tutorial/)
         provides a range of tutorial programs as Jupyter notebooks.
 
-        ## FEniCSx vs legacy FEniCS
+        ### FEniCSx vs legacy FEniCS
 
         FEniCSx is the latest iteration of FEniCS, and boasts a number of
         major improvements over the legacy library.
@@ -37,7 +49,7 @@ sections:
         Documentation for the legacy version of FEniCS is available at
         [https://fenicsproject.org/olddocs/](https://fenicsproject.org/olddocs/).
 
-        ## The FEniCS Book
+        ### The FEniCS Book
 
         ![The FEniCS Book](book.png) The book
         *Automated Solution of Differential Equations by the Finite Element

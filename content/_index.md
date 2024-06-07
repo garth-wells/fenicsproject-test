@@ -3,6 +3,7 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 
+
 design:
   # Default section spacing
   spacing: "6rem"
@@ -14,16 +15,16 @@ sections:
       # text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: download
         icon: rocket-launch
       secondary_action:
         text: Read the docs
-        url: https://docs.hugoblox.com
+        url: docs
       announcement:
         text: "Announcing the release of DOLFINx 0.8"
         link:
           text: "Read more"
-          url: "/blog/"
+          url: https://github.com/FEniCS/dolfinx/releases/tag/v0.8.0
     design:
       spacing:
         padding: [0, 0, 0, 0]

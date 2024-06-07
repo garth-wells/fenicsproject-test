@@ -1,6 +1,7 @@
 ---
 title: Community
 type: landing
+share: true
 
 sections:
   - block: markdown

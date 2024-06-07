@@ -34,7 +34,7 @@ header:
     align: "right"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "FEniCS Project"
       # Logo filename in `assets/media/` folder
       filename: "fenics_logo.png"
     # button:
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} FEniCS Project'
 
 # Localization
 locale:
